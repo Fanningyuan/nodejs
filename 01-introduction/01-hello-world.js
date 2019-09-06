@@ -1,2 +1,2 @@
-#!/usr/bin/node
+!/usr/bin/node
 console.log('hello world!');

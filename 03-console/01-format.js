@@ -14,3 +14,9 @@ log('Wangding Info:',wd);
 
 log('Name:',wd.name);
 log(`Age is ${wd.age}`);
+
+var nn = '范宁远';
+
+log(`Name is ${nn}`);
+
+console.error('something wrong!');
