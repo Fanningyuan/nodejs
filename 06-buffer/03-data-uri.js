@@ -3,7 +3,7 @@
 const fs = require('fs'),
       log = console.log,
       http = require('http');
-var data = fs.readFileSync('./qr-code.jpg').toString('base64');
+var data = fs.readFileSync('./qr-code.jpg','base64');
 
 var html = ''
   + '<!DOCTYPE html>'
